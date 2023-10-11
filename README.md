@@ -13,6 +13,8 @@ Interesting Task Ideas:
 - Compare how much people earn in specific industries or jobs when it comes to the gender wage gap.
 - Use the dataset to build models that can predict what the wage gap might look like in the future.
 
+## Objective
+ Build a model to that can predict the wage gap in the future. 
 
 ## Environment Configuration
 - Installing virtual Env
